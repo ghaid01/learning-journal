@@ -1,9 +1,11 @@
-Hello, it's Ghaid!!
+Hello, it's Ghaid!
 
 Today I'm going to talk about **MarkDown**
-**MarkDown** Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
+**MarkDown** is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
-There are How the Markdown format makes styled collaborative editing easymany things you can learn on **MarkDown** such as :
+ Markdown format makes styled collaborative editing easy
+
+there are many things you can learn on **MarkDown** such as :
 
 1. How the Markdown format makes styled collaborative editing easy.
 2. How Markdown differs from traditional formatting approaches.
