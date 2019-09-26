@@ -1,1 +1,3 @@
 **Hello, it's Ghaid!** i think that people with a grown mindset are positive people who never give up and always beleive in themseleves no matter what! They *control* themselves in any situation they go through in their journey of learning and never get nervous about anything because the only thing that can make a dream impossible is to **achieve the fear of failure**
+
+![](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjv6Z6Wh-7kAhXOGewKHbctCEQQjRx6BAgBEAQ&url=https%3A%2F%2Fmotivitamins.com%2Fnever-give-up-great-things-take-time-motivational-poster%2F&psig=AOvVaw3x8_NugXgCjM97hnJkzjV3&ust=1569572441514939)
